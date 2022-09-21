@@ -1,5 +1,5 @@
 ======
-Django, modified for testing, again
+Django, modified for testing, again, this time by GUI
 ======
 
 Django is a high-level Python web framework that encourages rapid development
@@ -49,6 +49,6 @@ To run Django's test suite:
 Supporting the Development of Django
 ====================================
 
-Django's development depends on your contributions. 
+Django's development depends on your contributions.
 
 If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
